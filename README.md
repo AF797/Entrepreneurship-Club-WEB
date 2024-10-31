@@ -1,1 +1,1 @@
-# Entrepreneurship-Club-WEB
+# 창업동아리 웹 파일
